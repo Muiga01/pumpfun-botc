@@ -40,3 +40,9 @@ To run Pump.fun bot, follow these steps:
 - [esbuild](https://www.npmjs.com/package/esbuild)
 - [inquirer](https://www.npmjs.com/package/inquirer)
 - [typescript](https://www.npmjs.com/package/typescript)
+
+
+## 💝 Support This Project
+If you find this useful, consider supporting:
+- Crypto: `53UfwcwexQXUpznebBaXj4Ythdh22AB7DekdftN9vftp`
+- GitHub Sponsors: [Sponsor Me](https://github.com/sponsors)
